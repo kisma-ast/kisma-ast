@@ -1,4 +1,4 @@
-<h1 align="center">Kissima Tandia</h1>
+<h1 align="center">Kissima TANDIA</h1>
 
 <p align="center">
   Développeur full-stack · Basé à Dakar
